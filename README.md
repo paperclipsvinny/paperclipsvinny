@@ -4,7 +4,9 @@
 Benito, AKA Paperclips Vinny, a college student studying Cybersecurity and Information Assurance. 
 
 ## $ visit_website
-`https://saucedasecurity.com`
+`saucedasecurity.com`
 ## $ contact
 Email: benitosauceda@proton.me <br>
-    LinkedIn: `https://www.linkedin.com/in/benito-sauceda/`
+    LinkedIn: `linkedin.com/in/benito-sauceda/`
+## $ Support
+Like my work? Tip jar:`ko-fi.com/paperclipsvinny` 
